@@ -1,14 +1,1 @@
 # Machine-Learning
-   
-   
-   
-   
-   
-   
-   
-       
-    
-    
-   
-   
-   
